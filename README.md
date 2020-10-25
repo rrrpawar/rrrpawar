@@ -9,5 +9,5 @@
 
 <p align='center'>
 <a href="https://dev.to/stephenaulu"><img height="30" src="https://github.com/rrrpawar/rrrpawar/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rrrao/"><img height="30" src="https://github.com/rrrpawar/alphaworks/blob/master/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/rrrao/"><img height="30" src="https://github.com/rrrpawar/rrrpawar/blob/main/linkedin.png?raw=true"></a>
 </p>
